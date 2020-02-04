@@ -1,0 +1,63 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - MadUtils (0.3.0):
+    - Alamofire (~> 5.0.0-beta.5)
+    - Nuke
+  - Nuke (8.4.0)
+  - ObjectMapper (3.5.1)
+  - R.swift (5.1.0):
+    - R.swift.Library (~> 5.1.0)
+  - R.swift.Library (5.1.0)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - SwiftyVK (3.4.1)
+  - Swinject (2.6.2)
+  - SwinjectStoryboard (2.2.0):
+    - Swinject (~> 2.6)
+
+DEPENDENCIES:
+  - MadUtils
+  - ObjectMapper (~> 3.4)
+  - R.swift
+  - RxCocoa (~> 5)
+  - RxSwift (~> 5)
+  - SwiftyVK
+  - Swinject (~> 2.6.0)
+  - SwinjectStoryboard
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MadUtils
+    - Nuke
+    - ObjectMapper
+    - R.swift
+    - R.swift.Library
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftyVK
+    - Swinject
+    - SwinjectStoryboard
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  MadUtils: aef68a2156c434fa8d343af747d4d675c97bba9d
+  Nuke: fa6f784c4f7e1c0f9313668510186c68b7af2509
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  R.swift: 8cbc4fc69b740305b6a17c8a8ed968eb788962d9
+  R.swift.Library: fa85ce1e0d0b7e818cd9e080df910ba54d2776cc
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  SwiftyVK: feb6f61d5d0f880b02035d729e12dd613e2f57c7
+  Swinject: cf7458774b1b00323080a9c67e47a1ee7f9d2af1
+  SwinjectStoryboard: 32512ef16c2b0ff5b8f823b23539c4a50f6d3383
+
+PODFILE CHECKSUM: a2dbd48c50647769230ca9ca142d03360cf2176a
+
+COCOAPODS: 1.8.4
