@@ -1,8 +1,9 @@
 PODS:
-  - Alamofire (5.0.0-rc.3)
+  - Alamofire (5.0.0)
   - MadUtils (0.3.0):
     - Alamofire (~> 5.0.0-beta.5)
     - Nuke
+  - maskedTextField (0.1.2)
   - Nuke (8.4.0)
   - ObjectMapper (3.5.1)
   - R.swift (5.1.0):
@@ -21,6 +22,7 @@ PODS:
 
 DEPENDENCIES:
   - MadUtils
+  - maskedTextField
   - ObjectMapper (~> 3.4)
   - R.swift
   - RxCocoa (~> 5)
@@ -33,6 +35,7 @@ SPEC REPOS:
   trunk:
     - Alamofire
     - MadUtils
+    - maskedTextField
     - Nuke
     - ObjectMapper
     - R.swift
@@ -45,8 +48,9 @@ SPEC REPOS:
     - SwinjectStoryboard
 
 SPEC CHECKSUMS:
-  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  Alamofire: 58ff2bfb8daaacaa233d5c36e37b10a5248f59b1
   MadUtils: aef68a2156c434fa8d343af747d4d675c97bba9d
+  maskedTextField: bb19d4693b5156ca4e6776acb61aa21c1a7f01a7
   Nuke: fa6f784c4f7e1c0f9313668510186c68b7af2509
   ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
   R.swift: 8cbc4fc69b740305b6a17c8a8ed968eb788962d9
@@ -58,6 +62,6 @@ SPEC CHECKSUMS:
   Swinject: cf7458774b1b00323080a9c67e47a1ee7f9d2af1
   SwinjectStoryboard: 32512ef16c2b0ff5b8f823b23539c4a50f6d3383
 
-PODFILE CHECKSUM: a2dbd48c50647769230ca9ca142d03360cf2176a
+PODFILE CHECKSUM: e293b54ed6bfab30fdfd81cc9cc4638d61c2d5e7
 
 COCOAPODS: 1.8.4

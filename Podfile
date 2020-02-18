@@ -14,5 +14,6 @@ target 'MyFlight' do
   pod 'SwinjectStoryboard'
   pod 'SwiftyVK'
   pod 'ObjectMapper', '~> 3.4'
+  pod 'maskedTextField'
 
 end
